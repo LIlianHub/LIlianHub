@@ -4,7 +4,7 @@
 
 <h1 align="center">About me<h1>
 
-<ul>
+<ul style="font-size: 1.5em;">
       <li>🌱 I’m currently learning at <a href="https://isima.fr">ISIMA</a>, a french CS school (63000 - Clermont-Ferrand)</li>
       <li>📫 How to reach me: lilian.ballejos@etu.uca.fr</li>
       <li>🌐 Here is my website: <a href="https://ballejos-lilian.fr">here</a> (far from finished but functional)</li>
