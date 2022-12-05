@@ -7,3 +7,6 @@
 - 🌐 Here is my website: <a href="https://ballejos-lilian.fr">here</a> (far from finished but functional)
 
 
+[![LIlianHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIlianHub)](https://github.com/LIlianHub/github-readme-stats)
+
+
