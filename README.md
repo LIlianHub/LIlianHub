@@ -5,10 +5,10 @@
 <h1 align="center">About me<h1>
 
 
-<li><p><em>🌱 I’m currently learning at <a href="https://isima.fr">ISIMA</a>, a french CS school (63000 - Clermont-Ferrand)</em></p></li>
-<li><p><em>📫 How to reach me: lilian.ballejos@etu.uca.fr</em></p></li>
-<li><p><em>🌐 Here is my website: <a href="https://ballejos-lilian.fr">here</a> (far from finished but functional)</em></p></li>
-<li><p><em>👨‍💻 My LinkedIN: <a href="https://linkedin.com/in/lilian-ballejos">Lilian BALLEJOS</a></em></p></li>
+<p><em>🌱 I’m currently learning at <a href="https://isima.fr">ISIMA</a>, a french CS school (63000 - Clermont-Ferrand)</em></p>
+<p><em>📫 How to reach me: lilian.ballejos@etu.uca.fr</em></p>
+<p><em>🌐 Here is my website: <a href="https://ballejos-lilian.fr">here</a> (far from finished but functional)</em></p>
+<p><em>👨‍💻 My LinkedIN: <a href="https://linkedin.com/in/lilian-ballejos">Lilian BALLEJOS</a></em></p>
 
 
 
